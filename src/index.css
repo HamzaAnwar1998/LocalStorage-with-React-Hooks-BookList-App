@@ -50,3 +50,7 @@
     color: red;
     cursor: pointer;
 }
+
+tbody{
+    margin-top: 25px;
+}
